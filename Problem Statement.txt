@@ -1,0 +1,5 @@
+FIFA 19 is a soccer/football simulation video game in which the user controls models of real-world players. Each player has an number called their Overall that acts as a proxy of how good they are. The overall value ranges from 1-99 and is used in FIFA 19 to compare players and track growth of player attributes like dribbling ability or stamina. Although this number is very important, there is no formula that describes how this number is derived. Here, I will work backwards using the overall and the player stats to find out how it is calculated.
+
+•	Objective: 
+1.	To predict the overall value of a Soccer player from various player attributes like dribbling ability or stamina. 
+2.	To form clusters of similar players (for each of the categories -- Strikers, Midfielders, Defenders & Goalkeepers) to help managers for buying/selling players during transfer season.
